@@ -1,0 +1,10 @@
+{
+  "markets": {
+    "coin": "ETH",
+    "exchange": "BTC",
+    "enabled": ["graviex"],
+    "default": "graviex",
+    "graviex_access_key": "EKcjmG7kkaigx3OZh8ubjghVey0lh7FtqIFgDY3U", //replace with your access_key
+    "graviex_secret_key": "DpngdhJkz64ylPudxM4WdQfFPE2F6q5WKnyN3bxR" // replace with your secret_key
+  }
+}
